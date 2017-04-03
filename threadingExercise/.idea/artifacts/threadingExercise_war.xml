@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="threadingExercise:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="threadingExercise.war">
+      <element id="artifact" artifact-name="threadingExercise:war exploded" />
+    </root>
+  </artifact>
+</component>
